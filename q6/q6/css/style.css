@@ -31,7 +31,7 @@ li a{
 
 .nav li {
   list-style: none;
-  margin: 30px;
+  padding: 30px;
 }
 
 a{
