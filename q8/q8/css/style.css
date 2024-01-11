@@ -13,13 +13,9 @@
 }
 
 .back-image-cover{
-  background: url(../../image/coffee-background.jpg) no-repeat;
-  background-position: center;
-  background-size: cover;
+  background: url(../../image/coffee-background.jpg) no-repeat center/cover;
 }
 
 .back-image-contain{
-  background: url(../../image/coffee-background.jpg) no-repeat;
-  background-position: center;
-  background-size: contain;
+  background: url(../../image/coffee-background.jpg) no-repeat center/contain;
 }
